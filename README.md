@@ -1,1 +1,1 @@
-# hmw1
+# Kodluyoruz Uygulamalı Veri Bilimi Ödevleri
